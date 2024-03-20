@@ -1,0 +1,10 @@
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\bin\Debug\Kütüphane_uyg.exe.config
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\bin\Debug\Kütüphane_uyg.exe
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\bin\Debug\Kütüphane_uyg.pdb
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\obj\Debug\Kütüphane_uyg.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\obj\Debug\Kütüphane_uyg.Form1.resources
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\obj\Debug\Kütüphane_uyg.Form2.resources
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\obj\Debug\Kütüphane_uyg.Properties.Resources.resources
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\obj\Debug\Kütüphane_uyg.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\obj\Debug\Kütüphane_uyg.exe
+C:\Users\Öğrenci\Desktop\Baran\Kütüphane_uyg\Kütüphane_uyg\obj\Debug\Kütüphane_uyg.pdb
