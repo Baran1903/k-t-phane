@@ -1,0 +1,10 @@
+c:\users\user\onedrive\belgeler\visual studio 2012\Projects\uyg-1\uyg-1\bin\Debug\uyg-1.exe.config
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\bin\Debug\uyg-1.exe
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\bin\Debug\uyg-1.pdb
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg_1.Form1.resources
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg_1.Properties.Resources.resources
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg-1.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg-1.exe
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg-1.pdb
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg_1.kayitol.resources
+C:\Users\user\OneDrive\Belgeler\Visual Studio 2012\Projects\uyg-1\uyg-1\obj\Debug\uyg-1.csprojResolveAssemblyReference.cache
