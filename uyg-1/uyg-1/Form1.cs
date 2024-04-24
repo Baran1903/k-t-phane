@@ -36,7 +36,12 @@ namespace uyg_1
             OleDbDataReader oku = komut.ExecuteReader();
             if (oku.Read())
             {
-                MessageBox.Show("giriş yapıldı");
+                textBox1.Clear();
+                textBox2.Clear();
+                yönlendirmesayfası ys = new yönlendirmesayfası();
+                ys.Show();
+                this.Hide();
+              
 
             }
             else
@@ -69,6 +74,11 @@ namespace uyg_1
             }
             else
                 textBox2.UseSystemPasswordChar = false;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
         // şifre görünürlüğü bitti
 
